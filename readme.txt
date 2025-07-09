@@ -3,10 +3,11 @@
 A modern, responsive flight booking website that allows users to search, view, and book flights. The design is sleek, user-friendly, and optimized for both desktop and mobile experiences. Built with HTML, CSS, and JavaScript, and animated with GSAP for smooth transitions and interactive UX.
 
 ---
+![Alt text](./flight_booking.png)
 
 ## 🚀 Live Preview
 
-👉 [Live Demo](.\flight_booking .png)  
+👉 [Live Demo](flight-booking-three-livid.vercel.app)  
 
 
 ---
