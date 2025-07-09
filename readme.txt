@@ -4,7 +4,7 @@ A modern, responsive flight booking website that allows users to search, view, a
 
 ---
 
-![Flight Booking Preview](./flight_booking .png)
+![Flight Booking Preview](flight_booking .png)
 
 ---
 
